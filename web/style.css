@@ -1,0 +1,29 @@
+body {
+	padding: 32px;
+	font-family: sans-serif;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+a {
+	color: #5555ff;
+}
+
+.what {
+	font-size: 125%;
+}
+
+.kitty {
+	font-size: 80%;
+	color: gray;
+}
+.kitty img {
+	display: block;
+	margin-bottom: 4px;
+	max-width: 80vw;
+}
+
+.plug {
+	margin-top: 32px;
+	font-size: 80%;
+}
