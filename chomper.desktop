@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Chomper
+Comment=Grab a portion of the screen and display it in a window
+Exec=chomper
+Icon=chomper
+Terminal=false
+Categories=Utility;
